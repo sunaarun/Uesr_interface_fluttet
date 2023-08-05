@@ -1,6 +1,12 @@
 # ui_app
 
-A new Flutter project.
+A new Flutter project that uses **ListWheelScrollView** and **RotatedBox** to design a scrollable rotated UI.
+You can watch the episode on Youtube:
+https://youtu.be/B1XE8eTjBKs
+
+
+![s7](https://github.com/sunaarun/Uesr_interface_fluttet/assets/36349126/8c2aff13-c6d6-4108-b599-4eaadeabf5c2)
+
 
 ## Getting Started
 
